@@ -1,6 +1,7 @@
 .container{
   display:flex;
 }
+
 /* 1. exercice-1 */
 .exercice-1 .container-big {
   align-items:center;
@@ -96,7 +97,6 @@
   width:50%;
   box-sizing:border-box;
 }
-
 
 /* 10. exercice-10 */
 .exercice-10 .element{
