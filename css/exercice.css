@@ -48,6 +48,19 @@
 }
 
 /* 6. exercice-6 */
+.exercice-6 .container-small{
+  flex-flow: row wrap-reverse;
+  align-content:space-between;
+}
+
+.exercice-6 .element-pink,
+.exercice-6 .element-yellow,
+.exercice-6 .element-blue,
+.exercice-6 .element-grey,
+.exercice-6 .element-green,
+.exercice-6 .element.red{
+  flex-grow:1;
+}
 
 /* 7. exercice-7 */
 .exercice-7 .container-set{
