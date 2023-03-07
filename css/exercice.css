@@ -87,6 +87,16 @@
 }
 
 /* 9. exercice-9 */
+.exercice-9 .container-small{
+  align-items: baseline;
+  flex-flow: row wrap;
+}
+
+.exercice-9 .element{
+  width:50%;
+  box-sizing:border-box;
+}
+
 
 /* 10. exercice-10 */
 
