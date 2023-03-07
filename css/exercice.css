@@ -27,6 +27,18 @@
 }
 
 /* 4. exercice-4 */
+.exercice-4 .container-big{
+  align-items:center;
+  justify-content: space-between;
+}
+
+.exercice-4 .element-blue{
+  order: 1;
+}
+
+.exercice-4 .element-pink{
+  align-self: flex-start;
+}
 
 /* 5. exercice-5 */
 
